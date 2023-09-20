@@ -1,0 +1,16 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  padding: 18px;
+  margin: 5px;
+  list-style-type: none;
+  background-color: whitesmoke;
+  border: solid rgb(190, 190, 190) 2px;
+  border-radius: 6px;
+  text-align: left;
+}
+
+.list-item .list-item-id {
+  margin-left: 10px;
+  margin-right: 30px;
+}

@@ -1,0 +1,14 @@
+.my_div {
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: steelblue;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 1.5rem;
+  color: steelblue;
+}

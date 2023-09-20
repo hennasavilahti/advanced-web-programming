@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(209, 209, 209);
+  color: rgb(39, 39, 68);
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.my_div {
+  margin: auto;
+  margin-top: 10vh;
+  min-height: 100vh;
+  display: flexbox;
+  max-width: 500px;
+}
+
+.font-link {
+  font-family: 'Roboto', sans-serif;
+}
