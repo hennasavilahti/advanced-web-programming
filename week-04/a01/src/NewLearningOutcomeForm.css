@@ -1,0 +1,12 @@
+.new-outcome__form {
+  display: flex;
+  justify-content: center;
+}
+
+.new-outcome__label {
+  margin-right: 5px;
+}
+
+.new-outcome__subject {
+  margin-right: 10px;
+}
