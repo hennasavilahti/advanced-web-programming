@@ -1,0 +1,19 @@
+.product__form {
+  padding: 2em;
+  background-color: white;
+  border-radius: 16px;
+  margin-bottom: 15px;
+}
+
+.product__form__control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  gap: 15px;
+}
+
+input {
+  width: 350px;
+  height: 30px;
+}
